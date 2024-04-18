@@ -1,5 +1,3 @@
----
-
 # Sistema de Biblioteca
 
 Este é um sistema de biblioteca simples desenvolvido em Java. Ele permite que os usuários realizem as seguintes operações:
@@ -15,5 +13,3 @@ Este é um sistema de biblioteca simples desenvolvido em Java. Ele permite que o
 O sistema possui uma interface de linha de comando (CLI) simples, onde o usuário pode interagir e realizar essas operações.
 
 Desenvolvido como parte de um projeto de aprendizado para praticar conceitos básicos de Java e programação orientada a objetos.
-
----
